@@ -1,3 +1,4 @@
+#https://github.com/amshala/DS2002-Lab3
 import sqlite3
 conn = sqlite3.connect('orders.db')
 # conn = sqlite3.connect(r'C:\Users\amsha\OneDrive\Desktop\orders.db')
